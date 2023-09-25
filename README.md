@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Advanced Js**
 
-- 👯 I’m looking to collaborate on **Google, Youtube**
+- 👯 I’m looking to collaborate on **all interesting Projects**
 
 - 🤝 I’m looking for help with **Gaussian Network Model In WSN**
 
