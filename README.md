@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aboobacker Sidheeque k</h1>
-<h3 align="center">Fullstack Developer | Computer Science & Engineering Enthusiast | Exploring Wireless Sensor Networks | Proficient in App Development</h3>
+<h3 align="center">Fullstack Developer | Computer Science & Engineering Enthusiast | Exploring Wireless Sensor Networks </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid41214&label=Profile%20views&color=0e75b6&style=flat" alt="sid41214" /> </p>
 
