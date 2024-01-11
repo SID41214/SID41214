@@ -14,14 +14,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid41214&label=Profile%20views&color=0e75b6&style=flat" alt="sid41214" /> </p>
 
 
-
-- 🔭 I’m currently working on **BridgeOn**
-
-- 🌱 I’m currently learning **Advanced Js**
-
 - 👯 I’m looking to collaborate on **all interesting Projects**
-
-- 🤝 I’m looking for help with **Gaussian Network Model In WSN**
 
 - 💬 Ask me about **WSN, Web development**
 
