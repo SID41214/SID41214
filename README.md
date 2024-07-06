@@ -9,8 +9,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Aboobacker Sidheeque k</h1>
-<h3 align="center">Fullstack Developer | Computer Science & Engineering Enthusiast | Exploring Wireless Sensor Networks </h3>
-
+<h3 align="center">Fullstack Developer | Artificial Intelligence | Machine Learning | Deep Learning | Exploring Wireless Sensor Networks </h3>
+ 
 
 
 
