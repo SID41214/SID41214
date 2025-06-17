@@ -22,7 +22,7 @@
 
 I am a passionate **Full-Stack Developer** and a **Computer Science & Engineering Graduate** with a strong interest in **Artificial Intelligence**, **Machine Learning**, and **Wireless Sensor Networks (WSN)**. I enjoy building robust and scalable applications and am always eager to explore new technologies and solve challenging problems.
 
-- 🌱 I’m currently learning more about distributed systems and advanced deep learning architectures.
+
 - 👯 I’m looking to collaborate on open-source projects related to web development or machine learning and Wireless Networks.
 - 📫 How to reach me: **sidhub41214@gmail.com**
 - 💬 Ask me about: **Full-Stack Development, Python, Django, React, AI/ML and WSN**.
